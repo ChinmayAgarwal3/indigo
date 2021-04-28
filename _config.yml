@@ -1,9 +1,9 @@
 # main text of home
 name: Chinmay Agarwal
-bio: A Man who travels the world eating noodles
+bio: An intellectual who lives life to the fullest
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about changes, challenges and innovation
 
 # if it's an external image, update below for true
 # better with square images
@@ -30,35 +30,35 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: chinmay_agarwal # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+# facebook: myfacebook
+twitter: chinmayagarwal7
+instagram: chinmay_agarwal_
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: @Chinmayaswami
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
-# reddit: username
-medium: medium
+reddit: Chinmayaswami
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: chinmay.a2019bds@srisriuniversity.edu.in
 
 authors:
   johndoe:
     name: Chinmay Agarwal
-    bio: A Man who travels the world eating noodles
+    bio: An intellectual who lives life to the fullest
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: chinmayagarwal7
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
