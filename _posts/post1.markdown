@@ -1,7 +1,7 @@
 ---
-title: "Markdown Extra Components"
+title: "Education vs Learning"
 layout: post
-date: 2016-02-24 22:48
+date: 2021-04-28 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,8 +9,8 @@ tag:
 - components
 - extra
 category: blog
-author: jamesfoster
-description: Markdown summary with different options
+author: chinmayagarwal7
+description: What is more important and why
 ---
 
 ## Summary:
