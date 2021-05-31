@@ -66,7 +66,7 @@ Now cool features for students, if anyone objects then I will create a seperate 
 Additional features taken from everyone
 
 
-<div class="spoiler">
+<span class="evidence">
 1. Polls in tweets
 2. Maps and locations, allows for treasure hunt
 3. Nerve: Truth and Dare
@@ -76,7 +76,7 @@ Additional features taken from everyone
 7. Hosting long competitions and showing ranking and updates here
 8. integrate easily with google meet for easy video calls
 9. And much much more
-</div>
+</span>
 
 ---
 
