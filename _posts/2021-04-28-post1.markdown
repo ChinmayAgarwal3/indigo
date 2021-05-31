@@ -1,192 +1,85 @@
 ---
-title: "Education vs Learning"
+title: "SSU Social"
 layout: post
 date: 2021-04-28 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- project
+- hell yeah
 category: blog
 author: chinmayagarwal7
-description: What is more important and why
+description: Gonna create a social network for SSU
 ---
 
-## Summary:
+## Point of the app:
 
-You can pick as item to see how to apply in markdown.
+To create something superior, unique and exclusive. 
 
-#### Especial Elements
-- [Evidence](#evidence)
-- [Side-by-Side](#side-by-side)
-- [Star](#star)
-- [Especial Breaker](#especial-breaker)
-- [Spoiler](#spoiler)
-
-#### External Elements
-- [Gist](#gist)
-- [Codepen](#codepen)
-- [Slideshare](#slideshare)
-- [Videos](#videos)
 
 ---
 
-## Evidence
+## What it will do
 
-You can try the evidence!
+Supplement communication at SSU level
 
-<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
-
-{% highlight html %}
-<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
-{% endhighlight %}
+<span class="evidence">For events such as Orion, departments, clubs and the Student Council, it will provide a platform. But this is boring, the interesting part comes in later versions.</span>
 
 ---
 
-## Side-by-side
+## TIMELINE
 
-Like the [Medium](https://medium.com/) component.
+Start learning flutter and create the app from scratch so you totally understand everything important and can add/remove features at will
 
-**Image** on the left and **Text** on the right:
+**Version 1**
 
-{% highlight html %}
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
-    </div>
+Edit design for SSU social and launch for some close friends and take in ideas for improvements and usage
 
-    <div class="toright">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-</div>
-{% endhighlight %}
+1. change colour scheme to red brown and logo to SSU social
+2. change logo-icons by just a bit, with almost same 
+3. change UI to a slight different style, like maybe center the profile page
 
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
-    </div>
+**Version 2**
 
-    <div class="toright">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-</div>
+Add the SUBREDDITS feature which allows for creation of subreddits, some can be used for official updates, wikis and posts per department and for events.
 
-**Text** on the left and **Image** on the right:
+**Version 2.1**
 
-{% highlight html %}
-<div class="side-by-side">
-    <div class="toleft">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
+Login from gmail ssu only 
 
-    <div class="toright">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
-    </div>
-</div>
-{% endhighlight %}
+1. username, image, year and department 
+2. no personal pages, only settings option. We follow the policy, speak where you will be heard
 
-<div class="side-by-side">
-    <div class="toleft">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
+**Version 2.2**
 
-    <div class="toright">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
-    </div>
+Whats happening column for official updates and information
+
+There is no retweet option, you can just mention someone who you want them to see, perhaps mentions can have a different style of showing so that it doesnt look wierd just mentioning someone and not saying anything, but that could be there personal problem
+
+---
+<span class="evidence">Base app complete Everyone knows and the administration accepts. Now,</span>
+
+**Version 3**
+
+Now cool features for students, if anyone objects then I will create a seperate app
+
+Additional features taken from everyone
+
+
+<div class="spoiler">
+1. Polls in tweets
+2. Maps and locations, allows for treasure hunt
+3. Nerve: Truth and Dare
+4. Petitions
+5. Anonymous posts
+6. Speed dating
+7. Hosting long competitions and showing ranking and updates here
+8. integrate easily with google meet for easy video calls
+9. And much much more
 </div>
 
 ---
 
-## Star
-
-You can give evidence to a post. Just add the tag to the markdown file.
-
-{% highlight raw %}
-star: true
-{% endhighlight %}
-
----
-
-## Especial Breaker
-
-You can add a especial *hr* to your text.
-
-{% highlight html %}
-<div class="breaker"></div>
-{% endhighlight %}
-
-<div class="breaker"></div>
-
----
-
-## Spoiler
-
-You can add an especial hidden content that appears on hover.
-
-{% highlight html %}
-<div class="spoiler"><p>your content</p></div>
-{% endhighlight %}
-
-<div class="spoiler"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
-
----
-
-## Gist
-
-You can add Gists from github.
-
-{% highlight raw %}
-{ % gist chinmayaswami/91ff4220480727b47224245ee2e9c291 % }
-{% endhighlight %}
-
-{% gist chinmayaswami/91ff4220480727b47224245ee2e9c291 %}
-
----
-
-## Codepen
-
-You can add Pens from Codepen.
-
-{% highlight html %}
-<p data-height="268" data-theme-id="0" data-slug-hash="gfdDu" data-default-tab="result" data-user="chriscoyier" class='codepen'>
-    See the Pen <a href='https://codepen.io/chriscoyier/pen/gfdDu/'>Crappy Recreation of the Book Cover of *The Flame Alphabet*</a> by Chris Coyier (<a href='https://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='https://codepen.io'>CodePen</a>.
-</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-{% endhighlight %}
-
-<p data-height="268" data-theme-id="0" data-slug-hash="gfdDu" data-default-tab="result" data-user="chriscoyier" class='codepen'>See the Pen <a href='https://codepen.io/chriscoyier/pen/gfdDu/'>Crappy Recreation of the Book Cover of *The Flame Alphabet*</a> by Chris Coyier (<a href='https://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
----
-
-## Slideshare
-
-Add your presentations here!
-
-{% highlight html %}
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l" width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-{% endhighlight %}
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l" width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-
----
-
-## Videos
-
-Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste on your post!
-
-**Example**
-
-{% highlight html %}
-<iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
-{% endhighlight %}
-
-<iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
 
 [1]: https://daringfireball.net/projects/markdown/
 [2]: https://www.fileformat.info/info/unicode/char/2163/index.htm
