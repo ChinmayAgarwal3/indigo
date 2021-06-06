@@ -1,14 +1,14 @@
 ---
-title: "SSU Social Network"
+title: "SSU Social"
 layout: post
-date: 2021-04-28 22:02
+date: 2021-04-28 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - project
 - hell yeah
-category: blog
-author: Chinmayaswami_
+category: project
+author: chinmayagarwal7
 description: Gonna create a social network for SSU
 ---
 
