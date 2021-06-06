@@ -9,13 +9,13 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "My venture into the social business"
 category: project
-author: johndoe
+author: Chinmayaswami_
 externalLink: false
 ---
 
 ## Point of the app:
 
-To create something superior, unique and exclusive. 
+To create something superior, unique and exclusive.
 
 
 ---
@@ -37,7 +37,7 @@ Start learning flutter and create the app from scratch so you totally understand
 Edit design for SSU social and launch for some close friends and take in ideas for improvements and usage
 
 1. change colour scheme to red brown and logo to SSU social
-2. change logo-icons by just a bit, with almost same 
+2. change logo-icons by just a bit, with almost same
 3. change UI to a slight different style, like maybe center the profile page
 
 **Version 2**
@@ -46,16 +46,16 @@ Add the SUBREDDITS feature which allows for creation of subreddits, some can be 
 
 **Version 2.1**
 
-Login from gmail ssu only 
+Login from gmail ssu only
 
-1. username, image, year and department 
+1. username, image, year and department
 2. no personal pages, only settings option. We follow the policy, speak where you will be heard
 
 **Version 2.2**
 
-Whats happening column for official updates and information
+What's happening column for official updates and information
 
-There is no retweet option, you can just mention someone who you want them to see, perhaps mentions can have a different style of showing so that it doesnt look wierd just mentioning someone and not saying anything, but that could be there personal problem
+There is no retweet option, you can just mention someone who you want them to see, perhaps mentions can have a different style of showing so that it doesn't look weird just mentioning someone and not saying anything, but that could be there personal problem
 
 ---
 <span class="evidence">Base app complete Everyone knows and the administration accepts. Now,</span>
@@ -80,4 +80,7 @@ Additional features taken from everyone
 </span>
 
 ---
+
+
+
 
