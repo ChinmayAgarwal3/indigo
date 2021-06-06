@@ -1,9 +1,9 @@
 ---
-title: ":flag_so: SSU Social"
+title: "SSU Social"
 layout: post
 date: 2018-01-23 22:10
 tag: jekyll
-image: https://chinmayaswami.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://chinmayaswami.github.io/indigo/assets/images/ssu-social.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -28,7 +28,7 @@ Supplement communication at SSU level
 
 ---
 
-## TIMELINE
+## Timeline || Roadmap
 
 Start learning flutter and create the app from scratch so you totally understand everything important and can add/remove features at will
 
