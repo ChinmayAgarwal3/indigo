@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll themes"
+title: ":flag_so: SSU Social"
 layout: post
 date: 2018-01-23 22:10
 tag: jekyll
