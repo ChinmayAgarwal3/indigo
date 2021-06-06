@@ -15,6 +15,8 @@ description: Human Socities and Purpose of Life
 
 “Donot do unto other what you wouldnt have do unto you”. You will see that I go on to describe society but morality is just this simple, its awesome. It speaks volumes and contains the essense, a sutra.
 
+---
+
 # **Society**
 
 ### **Social Fabric of the World**
@@ -32,7 +34,7 @@ The flow of choice I believe should be present, if a youth wants to switch his c
 
 The class structure is universal as it also has been described by Krishna Himself in the Bhagwat Gita, (ancient texts). This itself was controversial until Religion got involved. Anyways, this is the truth and how our bio-social system operates and there's no denying it, for those who need to argue, open your eyes and see for yourselves.
 
-***####* Autonomous Individuals vs||or Power Assemblies(Collective)**
+#### **Autonomous Individuals vs||or Power Assemblies(Collective)**
 
 I think both are true and exist in our societies, intellectuals are more self aware and more of an Autonomous individual with their own indentities, beliefs and views whereas in this era of information, non intellectuals which is like the pareto majority is not high in self awareness and lack necessary mechanisms to form Individuality, there also exists a smaller proportion of people who will never be able to become Autonomous Individuals. The pareto majority then forms the Collective based on irrational thought and speech and in this era using misinformation and echo chambers rendering false one-sided concepts similar to Victimhood and that Merit and inequality is evil, whereas it is a just a Law of Nature and societies as well that with prosperity inequality will grow and therefore goverments are there to keep it in check for the Labour. History has seen the use of Collectives to cause revolutions in power, however the heirarchy has always remain sound because it is necessay for socio-economic functioning.
 
@@ -62,9 +64,9 @@ Freedom can only come after discipline, taking responsibilities and surrendering
 
 ### **What is the purpose/meanning of life?**
 
-To Level Up. **To Go on an adventure seeking the Truth which is Enlightenment**. Fill your arsenal with powerful tools and skills. Grow into your Ideal and Judge as you continue to face Life’s increasing challenges and suffering. Remember, you will not be permitted to proceed unless you understand the core of the issue and solve it, dont do it enough time and you will be suspended from the game.
+To Level Up. **To Go on an adventure seeking the Truth (aka Enlightenment)**. Fill your arsenal with powerful tools and skills. Grow into your Ideal and Judge as you continue to face Life’s increasing challenges and suffering. Remember, you will not be permitted to proceed unless you understand the core of the issue and solve it, dont do it enough time and you will be suspended from the game.
 
--   Life is fundamentally an **Adventure** seeking for the Truth, which comes along with the suffering, the burden and the malevolence. It is not a call for happiness but a call for adventure. Something grand and noble, unlike settling down. Do some real stuff, create some real change and impact, go and lose/win and then come home. You are also supposed to see how your values stand against reality. Have you felt that life is a game such that whenever you decide on some virtue or call and then it is challenged almost immediately to see if you have grown a level up or did you just make a soft call. Specially like in challenges of Ashtavakra Gita and walking on the virtues that allow you to read the book. Keep moving forward, its all written as fate and manifests itself in Karma, keep your ears, eyes and energy open such that you can listen to Providence.**Kriya Yoga.**
+-   Life is fundamentally an **Adventure** seeking for the Truth, which comes along with the suffering, the burden and the malevolence. It is not a call for happiness but a call for adventure. Something grand and noble, unlike settling down. Do some real stuff, create some real change and impact, go and lose/win and then come home. You are also supposed to see how your values stand against reality. Have you felt that life is a game such that whenever you decide on some virtue or call and then it is challenged almost immediately to see if you have grown a level up or did you just make a soft call. Specially like in challenges of Ashtavakra Gita and walking on the virtues that allow you to read the book. Keep moving forward, its all written as fate and manifests itself in Karma, keep your ears, eyes and energy open such that you can listen to Providence.
 -   You have to accept the burden of **Suffering**. Life is suffering, indulging in maya, the cycle of life and death, has a pain attached to every action, even though one may be oblivious to that. Ancient People of the West counter it with a materialistic purpose/dream/goal. Ancient People of the East counter it with spirituality, getting devoted to Christ/Krishna, making everything a blessing, coming to terms with the meaninglessness and suffering with the goal of moksha. The suffering of the world is your responsibility, when you read history, you read history as a perpetrator and its on you. Face the suffering and rectify it, it will transform you towards the Truth.
 -   You need to face the potential of **malevolence** that exists **within** **you** and in this world. Come to terms with that part of existence(you can see killing and cannibalism everywhere in nature). Children are naturally brutal savages, mean and selfish but joyous. Be dangerous, know how to withstand tragedy and malevolence in this world. Accept your dark side, the rapist, the sociopath, the killer, the side which can usher hell on people and derive satisfaction from it, the warrior that can kill for God. Look at monsters to turn into a monster, be possessed by him. Be convinced of the necessity of moral action by understanding how dark and terrible things can get and thats its your fault that they are getting that way. Taking responsibility for the past and future is understanding that you have the same spirit as the ones who ran the camps in Austwitz, and understand that that is part and parcel of your makeup and then take responsibilty for it.
 -   You must start by taking **responsibility** for yourself and then move forward to higher and higher stuff and people and ending with Humanity, the past, the present and the future. The suffering of the world is your responsibility, when you read history, you read history as a perpetrator and its on you. Face the suffering and rectify it, it will transform you towards the Truth.
@@ -77,8 +79,6 @@ Have reception for evil and malevolence. You must be prepared to meet them and f
 People are capable of extreme transformation, however evil is compulsive behaviour, they cannot be transformed and must be killed and destroyed for greater good. Blood must be taken on your hands because you are the ones who can take it.
 
 Choose to be a "good" sociopath, like Sherlock Holmes, have cognitive empathy, know and understand others and be generous and help them. When you have so, you can also judge the true nature of others and their malevolence. Create certain tests to judge a person’s character, maturity, empathy and motives.
-
-Complete this with Bhagwat Gita as moral guidelines, Shiv sutras as spiritual guidance and Yoga Sutras as self discipline and kriya yoga burden guidance.
 
 This is should be your social-perspective of this world based on evolutionary-biology, multi religious value systems, psychology. This is your core, with conviction and wisdom, clarity and understanding.
 
