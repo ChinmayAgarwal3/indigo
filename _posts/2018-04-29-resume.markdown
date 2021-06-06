@@ -5,7 +5,7 @@ hidden: true
 author: Chinmayaswami_
 description: Resume
 ---
-				# Resume
+#                                  Resume
 
 ### Skills
 
