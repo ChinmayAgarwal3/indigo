@@ -9,7 +9,7 @@ tag:
 - hell yeah
 category: blog
 author: Chinmayaswami_
-description: Gonna create a social network for SSU
+description: Human Socities and Purpose of Life
 ---
 ### Human **Morality**
 
@@ -19,16 +19,22 @@ description: Gonna create a social network for SSU
 
 ### **Social Fabric of the World**
 
-Heirarchy of the Four.  It has been described by Krishna Himself in the Bhagwat Gita. He Himself has created it.
+Heirarchy of the Four.
 
-- Brahmins(Intellectuals)
-- Kshatriyas(Warriors)
-- Vaishyas(Businessmen)
-- Shudras(Labour)
+- Brahmins(Intellectuals) : Doctors, Professionals
+- Kshatriyas(Warriors) : Soldiers 
+- Vaishyas(Businessmen) : Industrialists, Merchants
+- Shudras(Labour) : Labourers
 
-***####* Autonomous Individuals vs Power Assemblies(Collective)**
+In cureent times, with the rise of prosperity, many have been able to move from Shudras to Brahmins, given luck and opportunity(higher education+monetary investments). Thus the service sector has seen huge growth whereas smaller businesses suffer.
 
-I think both are true and exist in our societies, intellectuals are more self aware and more of an Autonomous individual with their own indentities,beliefs and views whereas in this era of information, non intellectuals which is like the pareto majority is not high in self awareness and lack necessary mechanisms to form Individuality, there also exists a smaller proportion of people who will never be able to become Autonomous Individuals. The pareto majority then forms the Collective based on irrational thought and speech and in this era using misinformation and echo chambers rendering false one-sided concepts similar to Victimhood and that Merit and inequality is evil, whereas it is a just a Law of Nature and societies as well that with prosperity inequality will grow and therefore goverments are there to keep it in check for the Labour. History has seen the use of Collectives to cause revolutions in power, however the heirarchy has always remain sound because it is necessay for socio-economic functioning.
+The flow of choice I believe should be present, if a youth wants to switch his class, he must be allowed to do so, for a better performance would bring prosperity to all, but when due to egotism these structures become so rigid as to restrict inflow, the economy suffers.
+
+The class structure is universal as it also has been described by Krishna Himself in the Bhagwat Gita, (ancient texts). This itself was controversial until Religion got involved. Anyways, this is the truth and how our bio-social system operates and there's no denying it, for those who need to argue, open your eyes and see for yourselves.
+
+***####* Autonomous Individuals vs||or Power Assemblies(Collective)**
+
+I think both are true and exist in our societies, intellectuals are more self aware and more of an Autonomous individual with their own indentities, beliefs and views whereas in this era of information, non intellectuals which is like the pareto majority is not high in self awareness and lack necessary mechanisms to form Individuality, there also exists a smaller proportion of people who will never be able to become Autonomous Individuals. The pareto majority then forms the Collective based on irrational thought and speech and in this era using misinformation and echo chambers rendering false one-sided concepts similar to Victimhood and that Merit and inequality is evil, whereas it is a just a Law of Nature and societies as well that with prosperity inequality will grow and therefore goverments are there to keep it in check for the Labour. History has seen the use of Collectives to cause revolutions in power, however the heirarchy has always remain sound because it is necessay for socio-economic functioning.
 
 ### **Left(Labour) vs Right(Vaishyas)**
 
@@ -38,17 +44,25 @@ Intellectuals find themselves in the middle with no side particularly welcoming 
 
 ### **What is God? Does he exist?**
 
-I believe in God, I see him as a fundamental emergence of Life, the source as well as the result of Life somehow. It is very difficult to pinpoint precisely, but there is a belief in a Higher Power, which somehow governs life, a fundamental structure/force/power. I have felt this stuff, how Rudrabhishek somehow cleanses you and how intuition works and the seed of all knowledge is present in us. There is stuff at work so basic and primal as well as so emergent and higher that it can only be felt but not logically perceived and that is what ancient rishis have also said.
+I believe in God, I see him as a fundamental emergence of Life, the source as well as the result of Life somehow. It is very difficult to pinpoint precisely, but there is a Higher Power, something following the Laws of Syncronization/Attraction which defies the 2nd Law of Thermodynamics and emerges as Life itself. That which somehow governs life, a fundamental structure/force/power. 
 
-Moral atheism is Jeudo Christian Value System except existence of God(Jesus/Krishna), but it is unsustainable, its fine, but it is missing out on lot of things. One can only go so far with Logic, it is obviously logical that to understand something so basic and higher, logic can only take you so far and a point comes where one must abandon it.
+From my take, from my experiences, 
+I have felt stuff, how Rudrabhishek(Sanskrit Chantings) somehow cleanses you and how little kids like my brother practise intuition knowledge (like Tesla was a receiver for the universe) the seed of all knowledge is present in all of us. The part from which you "just know". It is not merely the 2nd brain, I'm sure of it after reading "Thinking fast, slow" because in these cases there is no need of a sensory input. Watch my videos.
+
+There is stuff at work so basic and primal as well as so **emergent** and higher that it can only be felt but not logically perceived and that is what ancient rishis(first scientists) have also said.
+
+Moral atheism is Jeudo Christian Value System except existence of God(Jesus/Krishna), but it is unsustainable, its acceptable for the ignorant, who donot see beyond themselves, who donot have scientific perception and wonder of existence, but it is missing out on the lot of most important things.
+
+One can only go so far with Logic, when one enters unventured domain, logic needs to be formulated, it does not exist and even beyond that, in "Vitarka" domain, it is magic,
+it is obviously logical that to understand something so basic and subtle, logic can only take you so far and a point comes where one must abandon it.
 
 You can sacrifice your children to God, because what you want for them is to serve the Highest possible value, it is in fact a mortal burden for them and they have been blessed by God to be given that highest burden.
 
 Freedom can only come after discipline, taking responsibilities and surrendering is True Freedom. As a child, it needs to be taught “no” and self-control, it will cry initially but after a while it will learn to understand what is permitted and not permitted and can be trusted to be left free without any supervision, the other option is totalitarian supervision.
 
-### **What is the purpose/meanning of my life?**
+### **What is the purpose/meanning of life?**
 
-To Level Up. **GO on an adventure seeking the Truth which is Enlightenment**. Fill your arsenal with powerful tools and skills. Grow into your Ideal and Judge as you continue to face Life’s increasing challenges and suffering. Remember, you will not be permitted to proceed unless you understand the core of the issue and solve it, dont do it enough time and you will be suspended from the game.
+To Level Up. **To Go on an adventure seeking the Truth which is Enlightenment**. Fill your arsenal with powerful tools and skills. Grow into your Ideal and Judge as you continue to face Life’s increasing challenges and suffering. Remember, you will not be permitted to proceed unless you understand the core of the issue and solve it, dont do it enough time and you will be suspended from the game.
 
 - [ ]  Life is fundamentally an **Adventure** seeking for the Truth, which comes along with the suffering, the burden and the malevolence. It is not a call for happiness but a call for adventure. Something grand and noble, unlike settling down. Do some real stuff, create some real change and impact, go and lose/win and then come home. You are also supposed to see how your values stand against reality. Have you felt that life is a game such that whenever you decide on some virtue or call and then it is challenged almost immediately to see if you have grown a level up or did you just make a soft call. Specially like in challenges of Ashtavakra Gita and walking on the virtues that allow you to read the book. Keep moving forward, its all written as fate and manifests itself in Karma, keep your ears, eyes and energy open such that you can listen to Providence.**Kriya Yoga.**
 - [ ]  You have to accept the burden of **Suffering**. Life is suffering, indulging in maya, the cycle of life and death, has a pain attached to every action, even though one may be oblivious to that. Ancient People of the West counter it with a materialistic purpose/dream/goal. Ancient People of the East counter it with spirituality, getting devoted to Christ/Krishna, making everything a blessing, coming to terms with the meaninglessness and suffering with the goal of moksha. The suffering of the world is your responsibility, when you read history, you read history as a perpetrator and its on you. Face the suffering and rectify it, it will transform you towards the Truth.
@@ -62,37 +76,10 @@ Have reception for evil and malevolence. You must be prepared to meet them and f
 
 People are capable of extreme transformation, however evil is compulsive behaviour, they cannot be transformed and must be killed and destroyed for greater good. Blood must be taken on your hands because you are the ones who can take it.
 
-Be a good sociopath, like Sherlock Holmes, have cognitive empathy, know and understand others and be generous and help them. When you have so, you can also judge the true nature of others and their malevolence. Create certain tests to judge a person’s character, maturity, empathy and motives.
+Choose to be a "good" sociopath, like Sherlock Holmes, have cognitive empathy, know and understand others and be generous and help them. When you have so, you can also judge the true nature of others and their malevolence. Create certain tests to judge a person’s character, maturity, empathy and motives.
 
 Complete this with Bhagwat Gita as moral guidelines, Shiv sutras as spiritual guidance and Yoga Sutras as self discipline and kriya yoga burden guidance.
 
-This is your social-perspective of this world based on evolutionary-biology, multi religious value systems, psychology. This is your core, with conviction and wisdom, clarity and understanding.
+This is should be your social-perspective of this world based on evolutionary-biology, multi religious value systems, psychology. This is your core, with conviction and wisdom, clarity and understanding.
 
-### **Responsibility**
 
-I take full responsibility of my Self, all other intellectual facalties, my body and health and my image as Chinmay Agarwal. I promise to treat them like my best friends, however they will also be sacrificed at times, especially when going over the edge and releasing tamas( doing purushartha )
-
-next comes my family and women
-
-then comes my company, my subjects, my board
-
-and onward it grows
-
-I will become the ideal, the shining gold standard. find perfection in the being, be articulate in speech, meet all requirements of yoga vashishtha, be a true warrior, a true king, a true servant and a true devotee.
-
-what are my responsibilities? what is my potential and to what level of social responsibility can i take?
-
-when i ask myself this. i feel that i can be a national titan like tata,birla or ambani. shaping the best decisions for the country. bringing prosperity to this nation and supporting awareness camps, maybe even changing the education system for the better.
-
-now this is what i think, maybe gurudev has bigger or smaller plans for me. for which i must prepare. see to it what preparations need to be made and how to do them. skills resources luck timing etc etc. be reborn anew like a phoenix, be the ideal, be the judgement, attain perfection in the being, not in words or actions.
-
-i want to create an impact but i also want to live, keeping business in balance is a must, let this be the limiit to which i set myself and the goal towards which i work.
-
-what changes do i make? i want to rebuild character in the generation, i want to solve parenting, create awareness, elevate people in social heirarchy, promote and adopt modern technologies, fund research and stop the brain drain. permit flow of wealth from the ultra rich to the poor and back to the rich, healthier work culture, socialistic communities.
-
----
-
-Tricke down economics is a lie
-
-Deep down we believe in a meritocracy, we’ve been taught to believe that we live in
- a meritocracy and that billionaires and minimum wage workers all deserve what they get. We’ve [conflated luck and talent](https://section4.lt.acemlna.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cucHJvZmdhbGxvd2F5LmNvbSUyRnRoaXJkLWJhc2U=&a=224126003&account=section4%2Eactivehosted%2Ecom&email=QmSfB9RfU1IumvoPGMz1Sbh4L92yuQjo58m1Zg%2Frcp8uJhVbS1Gzr62W2gv8lmSb&s=57170582e63f5d6b09d8157ce0171a78&i=1170A1301A2A29987), and it’s had a disastrous outcome — a lack of empathy. We proffer admiration, affection, and a sense of awe to people who aggregate wealth. But that affection is often misplaced, as wealth can lead to greed and a lack of empathy.
