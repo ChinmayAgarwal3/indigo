@@ -4,8 +4,6 @@ layout: post
 hidden: true
 image: /assets/images/markdown.jpg
 headerImage: false
-tag:
-- resume
 author: Chinmayaswami_
 description: Resume
 ---
