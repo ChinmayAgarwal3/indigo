@@ -1,5 +1,5 @@
 ---
-title: "SSU Social"
+title: ":fireworks:SSU Social"
 layout: post
 date: 2018-01-23 22:10
 tag: jekyll
