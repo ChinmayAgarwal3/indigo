@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-#resume-url: https://google.com/?q=my+resume
+resume-url: 2018-04-29-resume
 
 url: https://chinmayaswami.github.io/indigo/
 # your url: https://USERNAME.github.io
