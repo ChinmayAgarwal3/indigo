@@ -2,12 +2,12 @@
 title: ":fireworks: SSU Social"
 layout: post
 date: 2018-01-23 22:10
-tag: jekyll
+tag: Social-Network
 image: https://chinmayaswami.github.io/indigo/assets/images/ssu-social.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "My venture into the social business"
 category: project
 author: johndoe
 externalLink: false
