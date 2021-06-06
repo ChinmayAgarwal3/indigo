@@ -2,7 +2,7 @@
 title: "Resume"
 layout: page
 hidden: true
-image: /assets/images/markdown.jpg
+image: /assets/images/ssu-social.jpg
 headerImage: true
 author: Chinmayaswami_
 description: Resume
