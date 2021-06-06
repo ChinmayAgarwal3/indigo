@@ -1,6 +1,5 @@
 ---
 title: "Resume"
-layout: post
 hidden: true
 image: /assets/images/markdown.jpg
 headerImage: false
