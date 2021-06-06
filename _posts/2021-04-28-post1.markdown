@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - project
 - hell yeah
-category: blog
+category: project
 author: chinmayagarwal7
 description: Gonna create a social network for SSU
 ---
