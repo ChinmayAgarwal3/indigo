@@ -13,8 +13,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+#resume-url: https://google.com/?q=my+resume
 
 url: https://chinmayaswami.github.io/indigo/
 # your url: https://USERNAME.github.io
@@ -53,7 +53,7 @@ reddit: Chinmayaswami
 email: agarwalchinmayjgd@gmail.com
 
 authors:
-  johndoe:
+  Chinmayaswami_:
     name: Chinmay Agarwal
     bio: An intellectual who lives life to the fullest
     external-image: false
