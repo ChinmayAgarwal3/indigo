@@ -36,30 +36,30 @@ permalink: /:title/
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: Chinmayaswami_
-instagram: chinmayaswami_
+twitter: real_agarwal
+instagram: chinmayy.agarwal
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: Chinmayaswami
+github: ChinmayAgarwal3
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
-reddit: Chinmayaswami
+# reddit: Chinmayaswami
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: agarwalchinmayjgd@gmail.com
+email: chinmayy.agarwal@pm.me
 
 authors:
-  Chinmayaswami_:
+  ChinmayAgarwal:
     name: Chinmay Agarwal
     bio: An intellectual who lives life to the fullest
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: Chinmayaswami_
+    twitter: real_agarwal
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
