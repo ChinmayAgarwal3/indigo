@@ -3,13 +3,13 @@ title: ":fireworks: SSU Social"
 layout: post
 date: 2018-01-23 22:10
 tag: Social-Network
-image: https://chinmayaswami.github.io/indigo/assets/images/ssu-social.png
+image: https://chinmayagarwal3.github.io/indigo/assets/images/ssu-social.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "My venture into the social business"
 category: project
-author: Chinmayaswami_
+author: chinmayagarwal3_
 externalLink: false
 ---
 

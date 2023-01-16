@@ -141,10 +141,10 @@ You can add an especial hidden content that appears on hover.
 You can add Gists from github.
 
 {% highlight raw %}
-{ % gist chinmayaswami/91ff4220480727b47224245ee2e9c291 % }
+{ % gist chinmayagarwal3/91ff4220480727b47224245ee2e9c291 % }
 {% endhighlight %}
 
-{% gist chinmayaswami/91ff4220480727b47224245ee2e9c291 %}
+{% gist chinmayagarwal3/91ff4220480727b47224245ee2e9c291 %}
 
 ---
 

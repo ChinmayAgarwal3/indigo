@@ -2,7 +2,7 @@
 title: "Resume"
 layout: page
 hidden: true
-author: Chinmayaswami_
+author: chinmayagarwal3_
 description: Resume
 ---
 #                                       Resume
